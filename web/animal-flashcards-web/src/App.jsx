@@ -1,7 +1,6 @@
 import './App.css'
 import Flashcard from "./components/Flashcard.jsx";
 import CardWrapper from "./components/CardWrapper.jsx";
-import {cardsData} from "./utils/mockup-data.js";
 import HomePage from "./pages/HomePage.jsx";
 import AdminPage from "./pages/AdminPage.jsx";
 import {BrowserRouter, Routes, Route, Link} from "react-router-dom";
